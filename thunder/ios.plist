@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.waigaoq</string>
+				<string>com.xunlei.iosthunder</string>
 				<key>bundle-version</key>
 				<string>7.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>迅雷fangm版</string>
+				<string>迅雷f版</string>
 			</dict>
 		</dict>
 	</array>
